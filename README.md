@@ -19,5 +19,3 @@
             <p>Instagram: <a href="https://www.instagram.com/niranjan_yt_999/" target="_blank">@niranjan_yt_999</a></p>
         </div>
     </div>
-</body>
-</html>
